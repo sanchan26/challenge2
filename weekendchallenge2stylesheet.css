@@ -277,7 +277,7 @@ footer {
 }
 
 .first::before{
-		content:url('folder.zip/images/icon-location.svg');
+		content:url('icon-location.svg');
 		bottom:-23px;
 		position:relative;
 		right:30px;
@@ -285,14 +285,14 @@ footer {
 }
 
 .second::before{
-		content:url('folder/images/icon-phone.svg');
+		content:url('icon-phone.svg');
 		bottom:-23px;
 		position:relative;
 		right:30px;
 }
 
 .third::before{
-		content:url('folder/images/icon-email.svg');
+		content:url('icon-email.svg');
 		bottom:-23px;
 		position:relative;
 		right:30px;
